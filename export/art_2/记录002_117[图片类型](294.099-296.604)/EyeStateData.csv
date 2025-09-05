@@ -1,0 +1,17 @@
+﻿Segment Info
+Segment Name,117
+Recording Name,记录002
+Subject Name,被试002
+Start Time(s),294.0990806
+End Time(s),296.6038655
+
+Eye State Statistic
+Id,Eye State Type,Count(N),Total duration(s),Min duration(s),Max duration(s),Mean duration(s)
+1,Fixation,2,2.439,0.928,1.511,1.2195
+2,Saccades,1,0.065,0.065,0.065,0.065
+
+Eye State Data
+Id,Eye State Type,Start Time(s),End Time(s),Duration(s)
+1,Fixation,294.099,295.027,0.928
+2,Saccades,295.027,295.092,0.065
+3,Fixation,295.092,296.603,1.511
